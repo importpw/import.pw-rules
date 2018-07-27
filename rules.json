@@ -1,0 +1,6 @@
+{
+  "rules": [
+    { "pathname": "/v2/**", "dest": "registry.import.pw" },
+    { "dest": "gh.import.pw" }
+  ]
+}
